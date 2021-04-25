@@ -3,6 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wendellmeset"</p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellmeset&layout=compact&theme=dark"></p>
-                         
+
+<p align="center"><text>These GitHub stats may be VERY wrong and outdated, but the most used languages list at the top arent.<text></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wendellmeset&show_icons=true&theme=dark"></p>
 <p align="center"><text>Join My Minecraft Server tulipcraft.ddns.net<text></p>
