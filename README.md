@@ -9,6 +9,6 @@
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellmeset&layout=compact&theme=dark"></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wendellmeset&show_icons=true&theme=dark"></p>
 <p align="center"><text>Join My Minecraft Server tulipcraft.ddns.net<text></p>
