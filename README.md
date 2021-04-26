@@ -12,4 +12,4 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellmeset&layout=compact&theme=dark"></p>
 
 <p align="center"><text>Join My Minecraft Server tulipcraft.ddns.net<text></p>
-<p alight="center"><img align="center" src="https://github.com/wendellmeset/wendellmeset/blob/main/images/wink-wink.gif"></p>
+<p align="center"><img align="center" src="https://github.com/wendellmeset/wendellmeset/blob/main/images/wink-wink.gif"></p>
