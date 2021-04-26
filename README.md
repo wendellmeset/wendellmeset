@@ -10,5 +10,4 @@
 </a>  
 </div>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellmeset&layout=compact&theme=dark"></p>
-
 <p align="center"><img align="center" src="https://github.com/wendellmeset/wendellmeset/blob/main/images/wink-wink.gif"></p>
