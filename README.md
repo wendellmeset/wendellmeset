@@ -9,7 +9,7 @@
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 <a href="https://namemc.com/profile/wendellmeset.1" target="_blank">
-<img src=https://badgen.net/badge/:subject/:status/:color?icon=https://th.bing.com/th/id/Rff6b4804a7ff52b93591ab0d325e980a?rik=Qmmfku3U%2fKEAIQ&pid=ImgRaw alt=namemc style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/-NameMC-lightgrey alt=namemc style="margin-bottom: 5px;" />
 </a>
 </div>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellmeset&layout=compact&theme=dark"></p>
