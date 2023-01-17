@@ -14,5 +14,5 @@
 <img src=https://img.shields.io/badge/-NAMEMC-lightgrey alt=namemc style="margin-bottom: 5px;" />
 </a>
 </div>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellmeset&layout=compact&theme=dark"></p>
+<p align="center"><img align="center" src="![Wendellmeset's GitHub stats](https://github-readme-stats.vercel.app/api?username=wendellmeset&show_icons=true&theme=dark)"></p>
 <p align="center"><img align="center" src="https://github.com/wendellmeset/wendellmeset/blob/main/images/wink-wink.gif"></p>
