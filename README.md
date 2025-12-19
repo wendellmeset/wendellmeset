@@ -30,7 +30,7 @@ Here are some of the technologies and tools I work with:
   </a>
   <br />
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=wendellmeset&show_icons=true&theme=dark" alt="GitHub Stats" style="width: 400px; height: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=wendellmeset&show_icons=true&theme=dark&hide_rank=true" alt="GitHub Stats" style="width: 400px; height: auto;" />
   </a>
 </div>
 <p align="center"><img align="center" src="https://github.com/wendellmeset/wendellmeset/blob/main/images/wink-wink.gif"></p>
