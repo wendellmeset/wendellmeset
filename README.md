@@ -25,12 +25,8 @@ Here are some of the technologies and tools I work with:
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=wendellmeset" alt="Profile Views" style="width: 180px; height: auto;" />
   <br />
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellmeset&layout=compact&theme=dark" alt="Top Langs" />
-  </a>
+  <img src="./top-languages.svg" alt="Top Languages" />
   <br />
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=wendellmeset&show_icons=true&theme=dark&hide_rank=true" alt="GitHub Stats" style="width: 400px; height: auto;" />
-  </a>
+  <img src="./github-stats.svg" alt="GitHub Stats" />
 </div>
 <p align="center"><img align="center" src="https://github.com/wendellmeset/wendellmeset/blob/main/images/wink-wink.gif"></p>
