@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Wendellmeset's GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 3, Total Commits  (last year) : 187, Total PRs: 22, Total Issues: 61, Contributed to (last year): 27</desc>
+        <desc id="descId">Total Stars Earned: 3, Total Commits  (last year) : 187, Total PRs: 22, Total Issues: 65, Contributed to (last year): 27</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 176.31180878343682;
+        stroke-dashoffset: 175.91376551680324;
       }
     }
   
@@ -196,7 +196,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >61</text>
+      >65</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
